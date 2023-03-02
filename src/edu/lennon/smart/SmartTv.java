@@ -1,7 +1,5 @@
 package edu.lennon.smart;
 
-import java.security.Principal;
-
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
